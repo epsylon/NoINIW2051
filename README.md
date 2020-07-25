@@ -2,7 +2,7 @@
 
 ----------
 
-  NoINIW-2051 is Shell-based CyberPunk m-RPG videogame.
+  NoINIW-2051 is a Shell-based CyberPunk m-RPG videogame.
   
 
   ![NoINIW2051](https://03c8.net/images/NoINIW2051_2.png "NoINIW2051")
