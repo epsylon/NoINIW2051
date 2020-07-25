@@ -1,0 +1,10 @@
+  [NoINIW-2051] es un -videjuego- con licencia GPLv3 y desarrollado 
+íntegramente en Python (3.x.y), que utiliza como motor principal 
+la librería: PyGAME ...
+
+----------
+
+* CREADOR POR: psy - (epsylon@riseup.net)
+* GPG: DE23 E4E2 B1A1 C982 41C5 43D0 B3C1 FD78 B8AC 3776
+* WEBSITE: https://03c8.net
+* BTC: 19aXfJtoYJUoXEZtjNwsah2JKN9CK5Pcjw

@@ -1,0 +1,16 @@
+[NoINIW-2051] Te da la bienvenida ...
+
+  Para situarte, te encuentras en uno de los posibles futuros distópicos 
+tecnócratas, en los que las redes, las IA, los cyborgs y muchas otras
+subculturas -cyberpunk- más, junto a complejos algoritmos, 
+convergen en un único ENTORNO SHELL SIMULADO ... 
+
+----------
+
+CONSEJO: Los proxies públicos (los que tienen una MAC de 4 cifras), 
+suelen tener un usuario ["invitado"], que coincide con su número 
+de ubicación y que te permitirá comenzar a "husmear" ...
+
+----------
+
+Mantén la calma y ... Hackea el planeta! ;-)

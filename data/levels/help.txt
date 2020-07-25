@@ -1,0 +1,39 @@
+ENGLISH-SHELL0_HELP:+ Terminal Working;
+ENGLISH-SHELL0_HELP:    - "install <file.app>" -> install a program
+ENGLISH-SHELL0_HELP:    - "exit" -> stop Terminal from working
+ENGLISH-SHELL0_HELP:    - "clear" -> clear all command lines
+ENGLISH-SHELL0_HELP:+ Machine Working;
+ENGLISH-SHELL0_HELP:    - "id" -> print real and effective user and group IDs
+ENGLISH-SHELL0_HELP:    - "whois" -> client for the whois directory service
+ENGLISH-SHELL0_HELP:    - "hostname" ->  show host name of the current machine
+ENGLISH-SHELL0_HELP:    - "uname" -> print system information
+ENGLISH-SHELL0_HELP:+ Net Working;
+ENGLISH-SHELL0_HELP:    - "connect <ip>" -> connect to another machine
+ENGLISH-SHELL0_HELP:    - "disconnect" -> disconnect from this machine
+ENGLISH-SHELL0_HELP:+ Directory Working;
+ENGLISH-SHELL0_HELP:    - "ls" -> list all the folders and the files at current working directory
+ENGLISH-SHELL0_HELP:    - "pwd" -> print the current working directory
+ENGLISH-SHELL0_HELP:    - "cd new_working_directory" -> Change current working directory to new_working_directory
+ENGLISH-SHELL0_HELP:    - "cd .." -> change current working directory to a previous directory
+ENGLISH-SHELL0_HELP:+ Files And Folders Working;
+ENGLISH-SHELL0_HELP:    - "cat <file>" -> print file contents on the standard output
+#
+SPANISH-SHELL0_HELP:+ Funcionamiento de la Terminal;
+SPANISH-SHELL0_HELP:    - "install <fichero.app>" -> instalar un programa
+SPANISH-SHELL0_HELP:    - "exit" -> parar la Terminal de funcionar
+SPANISH-SHELL0_HELP:    - "clear" -> limpiar todas las líneas de comandos
+SPANISH-SHELL0_HELP:+ Funcionamiento de la Máquina;
+SPANISH-SHELL0_HELP:    - "id" -> mostrar el usuario y los grupos actuales
+SPANISH-SHELL0_HELP:    - "whois" -> cliente para solicitar información sobre servicios
+SPANISH-SHELL0_HELP:    - "hostname" ->  muestra el nombre de la máquina actual
+SPANISH-SHELL0_HELP:    - "uname" -> muestra información del sistema
+SPANISH-SHELL0_HELP:+ Funcionamiento de la Red;
+SPANISH-SHELL0_HELP:    - "connect <ip>" -> conectar a otra máquina
+SPANISH-SHELL0_HELP:    - "disconnect" -> desconectar de ésta máquina
+SPANISH-SHELL0_HELP:+ Funcionamiento del Directorio de Trabajo;
+SPANISH-SHELL0_HELP:    - "ls" -> listar todas las carpetas y ficheros del directorio actual
+SPANISH-SHELL0_HELP:    - "pwd" -> mostrar el directorio actual de trabajo
+SPANISH-SHELL0_HELP:    - "cd nuevo_directorio_trabajo" -> Cambiar el actual directorio de trabajo por otro nuevo
+SPANISH-SHELL0_HELP:    - "cd .." -> cambiar el actual directorio de trabajo por uno previo
+SPANISH-SHELL0_HELP:+ Funcionamiento de Ficheros y Archivos;
+SPANISH-SHELL0_HELP:    - "cat <fichero>" -> muestra el contenido de un fichero por la salida normal

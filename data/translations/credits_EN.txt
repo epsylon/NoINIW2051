@@ -1,0 +1,9 @@
+  [NoINIW-2051] is a -videogame- with license GPLv3 and development 
+fully in Python (3.x.y), that uses like main engine the library: PyGAME ...
+
+----------
+
+* CREATED BY: psy - (epsylon@riseup.net)
+* GPG: DE23 E4E2 B1A1 C982 41C5 43D0 B3C1 FD78 B8AC 3776
+* WEBSITE: https://03c8.net
+* BTC: 19aXfJtoYJUoXEZtjNwsah2JKN9CK5Pcjw
